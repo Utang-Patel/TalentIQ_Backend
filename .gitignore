@@ -1,0 +1,9 @@
+# utang
+.env
+Backend/.env
+__pycache__/
+*.pyc
+.venv/
+Backend/.venv/
+*.sqlite3
+

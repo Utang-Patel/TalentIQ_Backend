@@ -1,0 +1,13 @@
+{
+    "include": [
+        "Backend/ai_service",
+        "Backend/HireSense"
+    ],
+
+    "extraPaths": [
+        "Backend/HireSense",
+        "Backend/ai_service"
+    ],
+
+    "typeCheckingMode": "basic"
+}

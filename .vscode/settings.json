@@ -1,0 +1,17 @@
+{
+    "python-envs.workspaceSearchPaths": [
+        "./Backend/.venv"
+    ],
+
+    "python-envs.pythonProjects": [
+        {
+            "path": "Backend/ai_service",
+            "envManager": "ms-python.python:venv"
+        }
+    ],
+
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/Backend/HireSense",
+        "${workspaceFolder}/Backend/ai_service"
+    ]
+}
